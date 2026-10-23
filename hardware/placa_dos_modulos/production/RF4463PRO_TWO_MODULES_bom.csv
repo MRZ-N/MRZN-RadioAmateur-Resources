@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,RaspberryPi_Pico_SMD,1,RaspberryPi_Pico,
+C1,CP_Radial_D4.0mm_P2.00mm,1,47u,
+"J1, J2",SMA_Amphenol_132289_EdgeMount,2,Conn_Coaxial,
+J3,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_Pin,
+"J4, J5",PinSocket_1x02_P2.54mm_Vertical,2,Conn_01x02_Pin,
+J6,PinSocket_1x02_P2.54mm_Vertical,1,Conn_01x02_Socket,
+J7,PinSocket_1x06_P2.54mm_Vertical,1,Conn_01x06_Socket,
+J8,PinSocket_1x07_P2.54mm_Vertical,1,Conn_01x07_Socket,
+"R1, R2, R3, R4",0805,4,10k,
+"U1, U2",XCVR_RF4463PRO-915,2,RF4463PRO-915,

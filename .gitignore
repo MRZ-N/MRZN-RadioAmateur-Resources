@@ -1,0 +1,8 @@
+﻿.pio/
+__pycache__/
+*.pyc
+.vscode/
+recepciones/
+*.pdb
+Thumbs.db
+desktop.ini
